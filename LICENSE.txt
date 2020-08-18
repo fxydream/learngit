@@ -1,1 +1,1 @@
-Git is a cersion.
+Git is a version.
